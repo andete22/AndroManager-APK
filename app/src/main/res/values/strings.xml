@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroManager</string>
+    <string name="ip">192.168.1.202/mdm</string>
+    <string name="log"></string>
+</resources>
